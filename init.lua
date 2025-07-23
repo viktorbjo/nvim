@@ -2,8 +2,10 @@ require("config.lazy")
 require("viktor")
 
 --color theme
-vim.cmd("colorscheme onedark_dark")
+--vim.cmd("colorscheme onedark_dark")
 --vim.cmd("colorscheme onelight")
+--vim.cmd.colorscheme "catppuccin"
+vim.cmd.colorscheme "catppuccin-latte"
 
 --clipboard 
 --vim.opt.clipboard = "unnamedplus"
