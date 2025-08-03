@@ -5,7 +5,8 @@ require("viktor")
 --vim.cmd("colorscheme onedark_dark")
 --vim.cmd("colorscheme onelight")
 --vim.cmd.colorscheme "catppuccin"
-vim.cmd.colorscheme "catppuccin-latte"
+--vim.cmd.colorscheme "catppuccin-latte"
+vim.cmd.colorscheme "vague"
 
 --clipboard 
 --vim.opt.clipboard = "unnamedplus"
